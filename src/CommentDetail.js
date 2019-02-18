@@ -6,8 +6,8 @@ const CommentDetail = (props) => {
             <a href="/" className="avatar">
                 <img alt="avatar" src={props.avatar} />
             </a>
-            <div clasName="content">
-                <a href="#" className="author">
+            <div className="content">
+                <a href="/" className="author">
                     {props.author}
                 </a>
                 <div className="metadata">
